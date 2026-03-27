@@ -1,7 +1,8 @@
 {
   "name": "AFK Bot",
+  
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SERVERBOT",
     "password": "",
     "type": "offline"
   },
@@ -61,8 +62,8 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
-    "console-commands": true
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
