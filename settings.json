@@ -4,7 +4,7 @@
   "bot-account": {
     "username": "SERVERBOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "sabit11kasim.aternos.me",
